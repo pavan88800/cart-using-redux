@@ -1,6 +1,6 @@
 export const authReducer = (
   state = {
-    login: true,
+    login: false,
   },
   action
 ) => {
